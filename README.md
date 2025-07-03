@@ -4,6 +4,14 @@
   <h2>NetCut CLI v1.0</h2>
 </div>
 
+<p align="center">
+  <a href="https://github.com/fixploit03/NetCut-CLI#instalasi">Instalasi</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/fixploit03/NetCut-CLI#demonstrasi">Demonstrasi</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/fixploit03/NetCut-CLI#lisensi">Lisensi</a>
+</p>
+
 <div align="center">
 
   <!-- Badge Bagian Atas -->
