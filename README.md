@@ -48,8 +48,9 @@ sudo apt update
 sudo apt install arp-scan dsniff net-tools git
 git clone https://github.com/fixploit03/NetCut-CLI
 cd NetCut-CLI
+cd src
 chmod +x NetCut-CLI
-./NetCut-CLI
+sudo ./NetCut-CLI
 ```
 
 ## Demonstrasi
