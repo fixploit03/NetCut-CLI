@@ -27,7 +27,7 @@
 
 </div><br>
 
-`NetCut CLI` adalah script Bash sederhana yang memungkinkan pengguna Linux untuk `memindai`, `memutus`, dan `memulihkan` koneksi perangkat di jaringan lokal melalui teknik [ARP spoofing](https://github.com/fixploit03/NetCut-CLI/blob/main/doc/arp_spoofing.md).
+`NetCut CLI` adalah script Bash sederhana yang memungkinkan pengguna `Linux` untuk `memindai`, `memutus`, dan `memulihkan` koneksi perangkat di jaringan lokal melalui teknik [ARP spoofing](https://github.com/fixploit03/NetCut-CLI/blob/main/doc/arp_spoofing.md).
 
 > Disclaimer: Script ini saya buat semata-mata hanya untuk tujuan edukasi dan pembelajaran saja, tolong jangan salah gunakan script ini untuk tujuan negatif atau merugikan orang lain dan gunakanlah script ini dengan bijak!
 
