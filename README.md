@@ -6,4 +6,4 @@
 
 ## Latar Belakang
 
-NetCut CLI adalah script Bash sederhana yang terinspirasi dari aplikasi populer dijaman kejayaan warnet yaitu aplikasi bernama NetCut, dimana NetCut ini bisa memutuskan koneksi internet siapa saja yang ada di satu jaringan walaupun dia dia bukan sebagai Administrator jaringan. Nah NetCut kan hanya ada di Sistem operasi Windows, saya membuat NetCut CLI ini agar user Linux bisa merasakan yang namanya aplikasi NetCut di Linux, meski memiliki interface CLI, makanya dari itu, script ini saya beri nama 'NetCut CLI' hehehe :)
+`NetCut CLI` adalah script Bash sederhana yang terinspirasi dari aplikasi populer dijaman kejayaan warnet yaitu nama aplikasinya `NetCut`, dimana `NetCut` ini bisa memutuskan koneksi internet siapa saja yang ada di satu jaringan, walaupun dia bukan sebagai Administrator jaringan. Nah, `NetCut` kan hanya ada di Sistem operasi `Windows`, saya membuat `NetCut CLI` ini agar user `Linux` seperti saya ini bisa merasakan yang namanya aplikasi `NetCut` di `Linux`, meski hanya memiliki interface `CLI`, tapi fungsinya sama seperti yang ada di aplikasi `NetCut` yang ada di `Windows`.
