@@ -10,6 +10,12 @@
 
 Terciptanya `NetCut CLI` karena saya terinspirasi dari salah satu aplikasi populer dijaman kejayaan warnet yaitu nama aplikasinya `NetCut`, dimana `NetCut` ini bisa memutuskan koneksi internet siapa saja yang ada di satu jaringan yang sama, walaupun dia bukan sebagai seorang Administrator jaringan `NetCut` bisa melakukannya. Nah, `NetCut` kan hanya ada di Sistem operasi `Windows`, saya membuat `NetCut CLI` ini agar user `Linux` seperti saya ini bisa merasakan yang namanya aplikasi `NetCut` di `Linux`, meski hanya memiliki interface `CLI`, tapi fungsinya sama seperti yang ada di aplikasi `NetCut` yang ada di `Windows`.
 
+## Fitur 
+
+1. Scan Target
+2. Putuskan Koneksi Target
+3. Pulihkan Koneksi Target
+
 ## Instalasi
 
 ```
