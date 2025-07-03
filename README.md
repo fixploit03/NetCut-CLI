@@ -33,12 +33,29 @@ chmod +x NetCut-CLI
 
 https://github.com/user-attachments/assets/e6ec2e60-2fed-495b-a69d-11109311987f
 
-## Lisensi 
+## Lisensi
 
-Script ini dilisensikan dibawah lisensi [MIT](https://github.com/fixploit03/NetCut-CLI/blob/main/LICENSE).
+**Hak Cipta © 2025 Rofi (Fixploit03)**
+
+Script ini dilisensikan secara `gratis`. Anda diizinkan untuk `menggunakan`, `menyalin`, `memodifikasi`, `menggabungkan`, `menerbitkan`, `mendistribusikan`, `melisensikan ulang`, dan `menjual salinan script ini`, dengan syarat:
+
+Pemberitahuan hak cipta dan lisensi ini disertakan dalam semua salinan atau bagian substansial dari script.
+
+Script diberikan "**sebagaimana adanya**", tanpa jaminan apa pun, termasuk jaminan kelayakan untuk diperjualbelikan, kesesuaian untuk tujuan tertentu, atau bebas dari pelanggaran.
+
+Lihat [LICENSE](https://github.com/fixploit03/NetCut-CLI/blob/main/LICENSE) untuk detail lebih lengkap.
+
+## Dukungan
+
+Jika Anda menyukai proyek ini atau merasa bahwa proyek ini bermanfaat, Anda dapat mendukung proyek ini dengan cara berikut:
+
+- Beri bintang pada repositori ini di GitHub untuk membantu orang lain menemukannya.
+- Beri umpan balik dengan membuka [issue](https://github.com/fixploit03/NetCut-CLI/issues) atau memberikan saran perbaikan.
 
 ## Kontak
 
 - **Pembuat**: Rofi (Fixploit03)
 - **GitHub**: fixploit03
 - **Email**: fixploit03@gmail.com
+
+> Terimakasih untuk komunitas Open-Source untuk inspirasi dan dukungannya.
