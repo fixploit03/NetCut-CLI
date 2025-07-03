@@ -303,7 +303,7 @@ function main(){
 
 	# Pilih menu
 	while true; do
-		read -p "[NetCut CLI] Pili menu (0-7): " pilih_menu
+		read -p "[NetCut CLI] Pili menu (0-5): " pilih_menu
 		# OK
 		if [[ "${pilih_menu}" == "0" ]]; then
 			keluar
@@ -335,6 +335,9 @@ function main(){
 		elif [[ "${pilih_menu}" == "5" ]]; then
 			tentang
 			break
+   		else
+     			echo "[-] Menu '${pilih_menu}' tidak tersedia. Silahkan pilih menu dari 0-5."
+			continue
 		fi
 	done
 }
