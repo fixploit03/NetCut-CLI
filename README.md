@@ -25,5 +25,7 @@ chmod +x NetCut-CLI
 
 https://github.com/user-attachments/assets/e6ec2e60-2fed-495b-a69d-11109311987f
 
+## Lisensi 
 
+Script ini dilisensikan dibawah lisensi [MIT](https://github.com/fixploit03/NetCut-CLI/blob/main/LICENSE).
 
