@@ -113,7 +113,7 @@ function putuskan_koneksi(){
 
 	# Mengaktifkan IP Forwading (OK)
 	echo "[*] Mengaktifkan IP Forwarding..."
-	if echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward; then
+	if echo 1 | tee /proc/sys/net/ipv4/ip_forward; then
 		echo "[+] IP Forwarding berhasil diaktifkan."
 	else
 		echo "[-] Gagal mengaktifkan IP Forwarding."
@@ -190,7 +190,7 @@ function kembalikan_koneksi(){
 
 	# Menonaktifkan IP Forwarding (OK)
 	echo "[*] Menonaktifkan IP Forwarding..."
-	if echo 0 | sudo tee /proc/sys/net/ipv4/ip_forward; then
+	if echo 0 | tee /proc/sys/net/ipv4/ip_forward; then
 		echo "[+] IP Forwarding berhasil dinonaktifkan."
 	else
 		echo "[-] Gagal menonaktifkan IP Forwarding."
