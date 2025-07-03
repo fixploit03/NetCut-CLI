@@ -53,10 +53,6 @@ chmod +x NetCut-CLI
 sudo ./NetCut-CLI
 ```
 
-## Demonstrasi
-
-https://github.com/user-attachments/assets/e6ec2e60-2fed-495b-a69d-11109311987f
-
 ## Lisensi
 
 **Hak Cipta © 2025 Rofi (Fixploit03)**
