@@ -252,7 +252,7 @@ function banner(){
 	echo ""
 	echo "+--------------------------------------------------+"
 	echo "| Dibuat oleh: Rofi [Fixploit03]                   |"
-	echo "| GitHub: https://github.com/fixploit03/netcut-cli |"
+	echo "| GitHub: https://github.com/fixploit03/NetCut-CLI |"
 	echo "+--------------------------------------------------+"
 	echo ""
 }
