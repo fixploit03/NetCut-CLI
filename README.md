@@ -4,10 +4,20 @@
   <h2>NetCut CLI v1.0</h2>
 </div>
 
-![Release](https://img.shields.io/github/v/release/Fixploit03/netcut-cli?color=blue)
-![License](https://img.shields.io/github/license/Fixploit03/netcut-cli)
-![Stars](https://img.shields.io/github/stars/Fixploit03/netcut-cli?style=social)
-![Forks](https://img.shields.io/github/forks/Fixploit03/netcut-cli?style=social)
+<div align="center">
+
+  <!-- Badge Bagian Atas -->
+  <img src="https://img.shields.io/github/v/release/Fixploit03/netcut-cli?color=blue" alt="Release">
+  <img src="https://img.shields.io/github/license/Fixploit03/netcut-cli" alt="License">
+  <img src="https://img.shields.io/badge/platform-Linux-yellow" alt="Platform">
+
+  <br>
+
+  <!-- Badge Bagian Bawah -->
+  <img src="https://img.shields.io/github/stars/Fixploit03/netcut-cli?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Fixploit03/netcut-cli?style=social" alt="Forks">
+
+</div><br>
 
 `NetCut CLI` adalah script Bash sederhana yang memungkinkan pengguna Linux untuk `memindai`, `memutus`, dan `memulihkan` koneksi perangkat di jaringan lokal melalui teknik [ARP spoofing](https://github.com/fixploit03/NetCut-CLI/blob/main/doc/arp_spoofing.md).
 
